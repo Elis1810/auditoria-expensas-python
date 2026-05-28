@@ -1,5 +1,5 @@
 # auditoria-expensas-python
 Proyecto de análisis de Deuda del consorcio analizado.
 ![Distribución de la Deuda](grafico_morosidad.png)
-![Morosidad Historica](morosidad historica.png)
-![Evolucion de morosos](cantidad de morosos.png)
+![Distribucion de la deuda a lo largo del tiempo](morosidad_historica.png)
+![Aumento de los mosoros](cantidad_de_morosos.png)
